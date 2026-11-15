@@ -55,9 +55,9 @@ Leading commercial cloud-hosted omnichannel customer support suites, sorted desc
 
 ## 🟩 Open-Source Software 💻
 
-Self-hosted, transparent, and community-driven customer service solutions, sorted descending by **GitHub Stars**. 🌟🛡️
+Self-hosted, transparent, and community-driven customer service solutions, sorted descending by **GitHub_Stars**. 🌟🛡️
 
-| Repository & Stars | License | Tech Stack | Omnichannel Scope | AI & Automation Capabilities | Primary Use Case |
+| Repository & GitHub_Stars | License | Tech Stack | Omnichannel Scope | AI & Automation Capabilities | Primary Use Case |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers) | MIT | 💎 Ruby on Rails, Vue.js, PostgreSQL, Redis | 💬 Live Chat, ✉️ Email, 🟢 WhatsApp, ✈️ Telegram, 👥 Facebook, 📸 Instagram, 🐦 Twitter, 📱 SMS | 🤖 Captain AI agent, auto-assignment, canned responses, Dialogflow integration | 🔥 Modern open-source alternative to Intercom & Zendesk with full omnichannel inbox and native mobile apps. |
 | **[UVdesk](https://github.com/uvdesk/community-skeleton)** [![Stars](https://img.shields.io/github/stars/uvdesk/community-skeleton?style=social&color=white)](https://github.com/uvdesk/community-skeleton/stargazers) | MIT | 🐘 PHP (Symfony), MySQL, Composer | ✉️ Email ticketing, 💬 Website widget, 🛒 eCommerce channels (Amazon, eBay, Magento) | ⚡ Workflow rules, automated ticket dispatching, custom mail parsers | 🛍️ Modular PHP ticketing system tailored for multi-store eCommerce customer support. |
@@ -99,7 +99,7 @@ Contributions to expand this list are warmly welcomed! 🌟 If you maintain or u
 
 1. 🍴 Fork this repository.
 2. 📝 Add your project under [Open-Source Software](#-open-source-software-) maintaining star-sorted ordering.
-3. 🏷️ Include project name, repo link with star badge (`style=social&color=white`), license, technology stack, omnichannel channels, and a concise value proposition.
+3. 🏷️ Include project name, repo link with Stars_Badge (`style=social&color=white`), license, technology stack, omnichannel channels, and a concise value proposition.
 4. 🚀 Submit a Pull Request with a clear description of the project.
 
 ---
